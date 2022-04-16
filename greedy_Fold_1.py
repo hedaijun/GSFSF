@@ -20,7 +20,7 @@ PAD_token = 0
 
 dropout = 0.5
 hidden_size = 512
-n_layer = 4
+n_layer = 2
 n_epochs = 120
 batch_size = 64
 learning_rate = 1e-3
